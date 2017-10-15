@@ -1,11 +1,9 @@
 #!usr/bin/python
-"""Programmed by BigBadWolf15, github.com/bigbadwolf15"""
 
-from datetime import * #import library
+from datetime import *
 
 a1 = datetime.now().hour
-a1 = str(a1) #convert a1 to string
-
+a1 = str(a1)
 def main(): #define main
     print "Hello, world !"
     print "Ich heisse Python !"
@@ -13,5 +11,4 @@ def main(): #define main
     print "It is " + str(datetime.now().minute)+ " Minute"
     print "It is " + str(datetime.now().second)+ " Second"
 
-main() #call functions main
-#end
+main()
