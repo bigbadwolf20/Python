@@ -1,5 +1,5 @@
 #!usr/bin/python
-
+"""Programmed by BigBadWolf15, github.com/bigbadwolf15"""
 from datetime import *
 
 a1 = datetime.now().hour
